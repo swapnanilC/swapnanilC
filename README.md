@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Swapnanil Chakraborty
+
+🎓 Software Engineering student  
+💻 C & Java programmer | Frontend learner  
+
+---
+
+## About Me
+Interested in programming fundamentals, frontend development, and basic operating system concepts.  
+Learning by building small projects and improving core skills.
+
+---
+
+⭐ Thanks for visiting!
+
 
 <!--
 **swapnanilC/swapnanilC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
