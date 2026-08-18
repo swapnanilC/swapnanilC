@@ -1,10 +1,5 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-7055-43a5-94ae-3fcb32a97c21.gif" width="60" />
-  <h1 align="center">Hi, I'm <span style="color: #61dafb;">Swapnanil Chakraborty</span></h1>
-</div>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,26&height=120&section=header&text=Java%20Backend%20%7C%20Spring%20Boot%20%7C%20Generative%20AI&fontSize=22&fontColor=ffffff&animation=twinkle" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4158D0,50:C850C0,100:FFCC70&height=180&section=header&text=Hi%20there,%20I'm%20Swapnanil%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
 </p>
 
 
