@@ -1,10 +1,5 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/assets/wave.gif" width="30px"> 
-  Hi, I'm Swapnanil Chakraborty
-</h1>
-
 <p align="center">
-  <b>Java Backend Developer</b> | <b>Spring Boot</b> | <b>Microservices</b> | <b>Generative AI</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Swapnanil%20Chakraborty&fontSize=38&animation=fadeIn&fontAlignY=38" />
 </p>
 
 
