@@ -161,9 +161,12 @@ Google Gemini ──► Context-Aware Response
 <!-- LEARNING ROADMAP -->
 <div align="center">
   <h2>🎯 Learning Roadmap</h2>
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=750&height=180&lines=1.+Java+%26+Spring+Boot+Fundamentals;2.+%E2%9E%9E+Backend+Engineering+%26+Databases;3.+%E2%9E%9E+Microservices+Architecture;4.+%E2%9E%9E+Kafka+%26+Event-Driven+Systems;5.+%E2%9E%9E+Docker+%26+Kubernetes;6.+%E2%9E%9E+Generative+AI+%26+LangChain4j;7.+%E2%9E%9E+RAG+%26+Vector+Databases;8.+%E2%9E%9E+Production+AI-Powered+Applications" alt="Animated Learning Roadmap" />
+  </a>
 </div>
 
-```text
-  [ Java & Spring Boot ] ──► [ Backend Engineering ] ──► [ Microservices Architecture ]
-                                                                 │
-  [ AI-Powered Apps ] ◄── [ RAG & Vector Databases ] ◄── [ Generative AI Systems ] ◄───┘
+<p align="center">
+  <i>Focused on building a rock-solid foundation in <b>backend engineering & distributed systems</b>, while exploring how <b>Generative AI</b> can be integrated into production software.</i>
+</p>
