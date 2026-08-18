@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Swapnanil Chakraborty
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/assets/wave.gif" width="30px"> 
+  Hi, I'm Swapnanil Chakraborty
+</h1>
 
-### Java Backend Developer | Spring Boot | Microservices | Generative AI
+<p align="center">
+  <b>Java Backend Developer</b> | <b>Spring Boot</b> | <b>Microservices</b> | <b>Generative AI</b>
+</p>
+
 
 I build backend applications and AI-powered solutions using **Java, Spring Boot, PostgreSQL, and modern Generative AI technologies**.
 
