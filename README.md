@@ -1,14 +1,25 @@
+<!-- HEADER BANNER WITH ANIMATED TYPING SVG -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4158D0,50:C850C0,100:FFCC70&height=180&section=header&text=Hi%20there,%20I'm%20Swapnanil%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=220&section=header&text=Swapnanil%20Chakraborty&fontSize=42&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C850C0&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%26+Microservices+Architect;Building+GenAI+%26+RAG-Powered+Solutions;Exploring+Vector+Search+%26+Distributed+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
-I build backend applications and AI-powered solutions using **Java, Spring Boot, PostgreSQL, and modern Generative AI technologies**.
+<p align="center">
+  I build scalable backend applications and AI-powered solutions using <b>Java</b>, <b>Spring Boot</b>, <b>PostgreSQL</b>, and modern <b>Generative AI technologies</b>.
+  <br />
+  My current focus is on strengthening backend engineering fundamentals, exploring <b>microservices architecture</b>, and building practical applications with <b>LLMs, RAG, embeddings, and vector databases</b>.
+</p>
 
-My current focus is on strengthening backend engineering fundamentals, exploring **microservices architecture**, and building practical applications with **LLMs, RAG, embeddings, and vector databases**.
+<br />
 
 ---
 
+<!-- ABOUT ME SECTION WITH SIDE-BY-SIDE CODING GIF -->
 <div align="center">
   <h2>🧑‍💻 About Me</h2>
 </div>
@@ -28,177 +39,131 @@ My current focus is on strengthening backend engineering fundamentals, exploring
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Developer setup animation" />
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Developer coding animation" />
     </td>
   </tr>
 </table>
 
----
-
-## 🛠️ Tech Stack
-
-### Backend Development
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge"/>
-</p>
-
-### Microservices & Distributed Systems
-
-<p>
-<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-</p>
-
-**Working knowledge:**
-
-* Microservices architecture
-* Service-to-service communication
-* API Gateway
-* Event-driven architecture
-* Kafka fundamentals
-* Basic distributed-system concepts
-
-### Databases
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
-<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
-</p>
-
-**Exploring:**
-
-* Relational databases
-* Vector databases
-* Graph databases
-* Neo4j & graph-based data modeling
-* Semantic search
-
-### Generative AI
-
-<p>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain4j-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-7B61FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_Search-8E44AD?style=for-the-badge"/>
-</p>
-
-### DevOps & Deployment
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-</p>
-
-**Working knowledge:**
-
-* Docker fundamentals
-* Containerizing applications
-* Docker Compose basics
-* Kubernetes fundamentals
-* Pods, Deployments & Services
-* Basic application deployment concepts
+<br />
 
 ---
 
-## 🚀 Featured Project
+<!-- TECH STACK SECTION -->
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+</div>
 
-### 🧠 Talk-To-Past-Self
+### ☕ Backend & Core
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge"/>
+</p>
 
-A **RAG-based Generative AI application** that allows users to interact with their past conversations.
+### 🏗️ Microservices & Distributed Systems
+<p>
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</p>
 
-**Tech:** `Java` `Spring Boot` `LangChain4j` `Google Gemini` `PostgreSQL` `pgvector`
+> **Working Knowledge:** Microservices architecture, Service-to-service communication, API Gateway, Event-driven architecture, Kafka fundamentals, Distributed-system concepts.
 
-### How it works
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+</p>
+
+> **Exploring:** Relational databases, Vector databases, Graph databases, Neo4j & graph-based data modeling, Semantic search.
+
+### 🤖 Generative AI & LLM Tools
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain4j-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-7B61FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_Search-8E44AD?style=for-the-badge"/>
+</p>
+
+### 🐳 DevOps & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+</p>
+
+> **Working Knowledge:** Docker fundamentals, Application containerization, Docker Compose, Kubernetes basics (Pods, Deployments, Services).
+
+<br />
+
+---
+
+<!-- FEATURED PROJECT SECTION -->
+<div align="center">
+  <h2>🚀 Featured Project</h2>
+</div>
+
+### 🧠 [Talk-To-Past-Self](https://github.com/swapnanilC/Talk-To-Past-Self)
+> A **RAG-based Generative AI application** that allows users to seamlessly interact with their past conversations using intelligent context retrieval.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain4j-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square"/>
+</p>
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Key Features</h4>
+      <ul>
+        <li>💬 AI-powered contextual conversations</li>
+        <li>🗄️ PostgreSQL conversation storage</li>
+        <li>🧠 Gemini embeddings & semantic vector search</li>
+        <li>📚 Retrieval-Augmented Generation (RAG) architecture</li>
+        <li>🕒 Historical conversation timestamp indexing</li>
+      </ul>
+      <p>🔗 <b>Link:</b> <a href="https://github.com/swapnanilC/Talk-To-Past-Self">View Repository on GitHub</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Architecture Flow</h4>
+      <pre>
+User Question 
+      │
+      ▼
+Generate Embedding ──► Vector Similarity Search
+                              │
+                              ▼
+Build Context ◄── Retrieve Past Conversations
+      │
+      ▼
+Google Gemini ──► Context-Aware Response
+      </pre>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+<!-- LEARNING ROADMAP -->
+<div align="center">
+  <h2>🎯 Learning Roadmap</h2>
+</div>
 
 ```text
-User Question
-      ↓
-Generate Embedding
-      ↓
-Vector Similarity Search
-      ↓
-Retrieve Relevant Past Conversations
-      ↓
-Build Context
-      ↓
-Google Gemini
-      ↓
-Context-Aware Response
-```
-
-### Key Features
-
-* 💬 AI-powered conversations
-* 🗄️ PostgreSQL conversation storage
-* 🧠 Gemini embeddings
-* 🔎 Semantic vector search
-* 📚 Retrieval-Augmented Generation
-* 🕒 Conversation timestamps
-* 🔗 Context-aware responses
-
-🔗 **Repository:** [Talk-To-Past-Self](https://github.com/swapnanilC/Talk-To-Past-Self)
-
----
-
-## 🎯 Current Learning Focus
-
-```text
-Java & Spring Boot
-        ↓
-Backend Engineering
-        ↓
-Microservices
-        ↓
-Kafka & Event-Driven Systems
-        ↓
-Docker & Kubernetes
-        ↓
-Generative AI
-        ↓
-RAG & Vector Databases
-        ↓
-AI-Powered Applications
-```
-
-I'm currently focused on building a strong foundation in **backend engineering and distributed systems**, while exploring how **Generative AI can be integrated into modern software applications**.
-
----
-
-## 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=swapnanilC&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanilC&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p>
-<a href="https://github.com/swapnanilC">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-### 💡 Build. Learn. Improve.
-
-*Focused on becoming a stronger backend engineer while exploring the possibilities of Generative AI.*
+  [ Java & Spring Boot ] ──► [ Backend Engineering ] ──► [ Microservices Architecture ]
+                                                                 │
+  [ AI-Powered Apps ] ◄── [ RAG & Vector Databases ] ◄── [ Generative AI Systems ] ◄───┘
