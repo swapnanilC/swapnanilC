@@ -1,8 +1,11 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi!+I'm+Swapnanil+👋" />
-  </h1>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-7055-43a5-94ae-3fcb32a97c21.gif" width="60" />
+  <h1 align="center">Hi, I'm <span style="color: #61dafb;">Swapnanil Chakraborty</span></h1>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,26&height=120&section=header&text=Java%20Backend%20%7C%20Spring%20Boot%20%7C%20Generative%20AI&fontSize=22&fontColor=ffffff&animation=twinkle" />
+</p>
 
 
 I build backend applications and AI-powered solutions using **Java, Spring Boot, PostgreSQL, and modern Generative AI technologies**.
