@@ -9,26 +9,20 @@ My current focus is on strengthening backend engineering fundamentals, exploring
 
 ---
 
-<table>
-  <tr>
-    <td width="60%">
-      <h2>🧑‍💻 About Me</h2>
-      <ul>
-        <li>💻 Focused on <b>Java Backend Development</b></li>
-        <li>🌱 Exploring <b>Generative AI & RAG</b></li>
-        <li>🔧 Building applications with <b>Spring Boot & PostgreSQL</b></li>
-        <li>🏗️ Learning <b>Microservices Architecture</b></li>
-        <li>🤖 Exploring <b>Google Gemini & LangChain4j</b></li>
-        <li>🔎 Learning <b>Vector Search & Graph Databases</b></li>
-        <li>🚀 Exploring distributed systems and event-driven architectures</li>
-        <li>📚 Continuously improving my software engineering fundamentals</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Developer animation" />
-    </td>
-  </tr>
-</table>
+## 🧑‍💻 About Me
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-7055-43a5-94ae-3fcb32a97c21.gif" width="400" alt="Boy coding on laptop" />
+</p>
+
+* 💻 Focused on **Java Backend Development**
+* 🌱 Exploring **Generative AI & RAG**
+* 🔧 Building applications with **Spring Boot & PostgreSQL**
+* 🏗️ Learning **Microservices Architecture**
+* 🤖 Exploring **Google Gemini & LangChain4j**
+* 🔎 Learning **Vector Search & Graph Databases**
+* 🚀 Exploring distributed systems and event-driven architectures
+* 📚 Continuously improving my software engineering fundamentals
 
 ---
 
