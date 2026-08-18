@@ -9,20 +9,29 @@ My current focus is on strengthening backend engineering fundamentals, exploring
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
+  <h2>🧑‍💻 About Me</h2>
+</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-7055-43a5-94ae-3fcb32a97c21.gif" width="400" alt="Boy coding on laptop" />
-</p>
-
-* 💻 Focused on **Java Backend Development**
-* 🌱 Exploring **Generative AI & RAG**
-* 🔧 Building applications with **Spring Boot & PostgreSQL**
-* 🏗️ Learning **Microservices Architecture**
-* 🤖 Exploring **Google Gemini & LangChain4j**
-* 🔎 Learning **Vector Search & Graph Databases**
-* 🚀 Exploring distributed systems and event-driven architectures
-* 📚 Continuously improving my software engineering fundamentals
+<table border="0">
+  <tr>
+    <td width="55%" valign="top">
+      <ul>
+        <li>💻 Focused on <b>Java Backend Development</b></li>
+        <li>🌱 Exploring <b>Generative AI & RAG</b></li>
+        <li>🔧 Building applications with <b>Spring Boot & PostgreSQL</b></li>
+        <li>🏗️ Learning <b>Microservices Architecture</b></li>
+        <li>🤖 Exploring <b>Google Gemini & LangChain4j</b></li>
+        <li>🔎 Learning <b>Vector Search & Graph Databases</b></li>
+        <li>🚀 Exploring distributed systems and event-driven architectures</li>
+        <li>📚 Continuously improving my software engineering fundamentals</li>
+      </ul>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Developer setup animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
