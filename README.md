@@ -6,7 +6,7 @@
 
 <div align="center">
 
-```
+```bash
 $ whoami
 > backend developer, currently rebuilding my foundations in spring boot
 > side quest: teaching machines to remember things (RAG) ⚡
